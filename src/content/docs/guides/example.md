@@ -1,5 +1,5 @@
 ---
-title: Example Guide
+title: Cogaan Club Info
 description: A guide in my new Starlight docs site.
 ---
 
