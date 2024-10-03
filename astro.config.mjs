@@ -4,7 +4,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site:'cogaan-club-gitam.github.io',
+  site:'https://cogaan-club-gitam.github.io',
   base:'wiki',
   integrations: [
     starlight({
